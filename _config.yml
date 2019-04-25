@@ -1,0 +1,4 @@
+theme: jekyll-theme-minimal
+title: JuliaStreamGraphs - StreamGraph analysis in Julia
+description: JuliaStreamGraphs provides tools for studying streamgraphs and link streams in the Julia programming language.
+
